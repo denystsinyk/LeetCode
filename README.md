@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/denystsinyk/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/denystsinyk/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/denystsinyk/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/denystsinyk/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/denystsinyk/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
