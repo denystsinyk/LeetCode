@@ -4,7 +4,7 @@ class Solution:
         lowest = float('inf')
         # can set to 0 bc if we dont sell its still 0
 
-        for i, num in enumerate(prices):
+        for num in prices:
             if num < lowest:
                 lowest = num
 
