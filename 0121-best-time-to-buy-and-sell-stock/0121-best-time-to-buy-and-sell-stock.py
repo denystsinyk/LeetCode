@@ -5,7 +5,11 @@ class Solution:
         # can set to 0 bc if we dont sell its still 0
 
         for i, num in enumerate(prices):
-                lowest = min(lowest, num)
-                max_profit = max(max_profit, num - lowest)
+            if num < lowest:
+                lowest = num
+
+            temp_profit = num - lowest
+            if max_profit < temp_profit:
+                max_profit = temp_profit
 
         return max_profit
