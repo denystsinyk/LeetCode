@@ -51,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/denystsinyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/denystsinyk/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/denystsinyk/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/denystsinyk/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/denystsinyk/LeetCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
