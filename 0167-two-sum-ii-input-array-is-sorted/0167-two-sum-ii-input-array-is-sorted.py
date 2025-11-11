@@ -1,14 +1,19 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        left, right = 0, len(numbers) - 1
-        currSum = 0
-        while left<right:
-            currSum = numbers[left] + numbers[right]
-            if currSum == target:
-                return [left + 1, right + 1]
-            elif currSum < target:
-                left += 1
-            elif currSum > target:
-                right -= 1
+        # two pointer and get the sum, if bigger than target then move right inwards
+        # less than would move the left inwards
+
+        l, r = 0, len(numbers) -1
+        curr = 0
+
+        while l < r:
+            curr = numbers[l] + numbers[r]
+            if curr < target:
+                l += 1
+            elif curr > target:
+                r -= 1
+            else:
+                return [l+1, r+1]
+            
 
             
