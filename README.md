@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/denystsinyk/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/denystsinyk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/denystsinyk/LeetCode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/denystsinyk/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/denystsinyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1039-find-the-town-judge](https://github.com/denystsinyk/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/denystsinyk/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/denystsinyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/denystsinyk/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Tree
 |  |
 | ------- |
