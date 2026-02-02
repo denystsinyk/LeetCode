@@ -8,9 +8,7 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         # can use a set to solve in O(n) speed and space
         # fast and slow to solve in O(n) speed and O(1) space
-
-        slow, fast = head, head
-
+        slow = fast = head
         while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
