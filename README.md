@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/denystsinyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1039-find-the-town-judge](https://github.com/denystsinyk/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/denystsinyk/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3379-transformed-array](https://github.com/denystsinyk/LeetCode/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/denystsinyk/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/denystsinyk/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/denystsinyk/LeetCode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
