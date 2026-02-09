@@ -1,25 +1,19 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+        freq = [0] * 101
+        result = []
 
-        # loop through each num
-        # for each num run another loop and if smaller add one
-        # we could also sort it, then anything after is larger
-        # since we cant use a dict we could also do a counter
+        for value in nums:
+            freq[value] += 1
 
-        res = [0] * len(nums) # this did not speed it up
+        smaller_count = [0] * 101
+        running = 0
 
-        for i in range(len(nums)):
-            count = 0
-            for j in range(len(nums)):
-                if i != j and nums[j] < nums[i]: 
-                    count += 1
-            res[i] = count
-        return res
+        for v in range(len(smaller_count)):
+            smaller_count[v] = running
+            running += freq[v]
 
-        # to make it faster we could sort it
-        
-        
+        for value in nums:
+            result.append(smaller_count[value])
 
-
-
-        
+        return result
