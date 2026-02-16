@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/denystsinyk/LeetCode/tree/master/0009-palindrome-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/denystsinyk/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/denystsinyk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/denystsinyk/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/denystsinyk/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1227-airplane-seat-assignment-probability](https://github.com/denystsinyk/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/denystsinyk/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/denystsinyk/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/denystsinyk/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
