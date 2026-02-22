@@ -188,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/denystsinyk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/denystsinyk/LeetCode/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
