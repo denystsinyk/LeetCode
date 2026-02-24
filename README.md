@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/denystsinyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/denystsinyk/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/denystsinyk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/denystsinyk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/denystsinyk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/denystsinyk/LeetCode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/denystsinyk/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/denystsinyk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/denystsinyk/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/denystsinyk/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/denystsinyk/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
