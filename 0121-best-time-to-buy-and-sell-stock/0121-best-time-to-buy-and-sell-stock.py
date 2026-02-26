@@ -1,15 +1,28 @@
+'''
+brute force
+    2 pointer where you loop through each num 
+    O(n^2)
+
+Sliding window
+    left side buy
+    right side sell
+    
+'''
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        max_profit = 0
-        lowest = float('inf')
-        # can set to 0 bc if we dont sell its still 0
+    
+        maxProfit = 0 # return if we cant find anything also
+        l = 0
 
-        for num in prices:
-            if num < lowest:
-                lowest = num
+        for r in range(len(prices)):
+            if prices[l] > prices[r]:
+                # curr price is lower than our lowest we seen
+                l = r
+            maxProfit = max(maxProfit, prices[r] - prices[l])
+            # we reset to the lowest and find the res each time, the highest res is stored
 
-            temp_profit = num - lowest
-            if max_profit < temp_profit:
-                max_profit = temp_profit
+        return maxProfit
 
-        return max_profit
+
+
+        
